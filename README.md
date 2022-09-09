@@ -11,6 +11,5 @@ The goal of this project is to help my stakeholders understand how are some fact
 ### Source of data:
 •	fedesoriano. (April 2022). Spanish Wine Quality Dataset. Retrieved [Date Retrieved] from https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
-•	Description of the data:
 
-![imga](name of the file)
+![image]()
